@@ -51,7 +51,7 @@ The dataset was cleaned and transformed using Power Query in Power BI through th
 
 ### Visualizations
 
-[screanshot of the dashboard]()
+![Student Wallet Dashboard](student%20spendng%20habit.png)
 
 * Student Spending by Academic Level
 * Spending Behaviour Analysis
@@ -62,9 +62,7 @@ The dataset was cleaned and transformed using Power Query in Power BI through th
 * Preferred Payment Method Distribution
 * Wellness Spending Analysis
 
----
-
-## 🔑 Key Insights
+## Key Insights
 
 * Students spend significantly more than their average monthly income.
 * Food, books, and technology are among the highest spending categories.
@@ -72,9 +70,7 @@ The dataset was cleaned and transformed using Power Query in Power BI through th
 * Digital payment methods are preferred over cash transactions.
 * Spending habits vary across academic levels and student demographics.
 
----
-
-## ✅ Benefits of the Dashboard
+## Benefits of the Dashboard
 
 * Helps students understand and manage their finances effectively.
 * Identifies spending trends and financial challenges.
@@ -83,15 +79,11 @@ The dataset was cleaned and transformed using Power Query in Power BI through th
 * Provides data-driven insights for educational institutions.
 * Enables quick and informed decision-making through interactive visualizations.
 
----
-
-## 📈 Business Value
+## Business Value
 
 This dashboard provides a comprehensive view of student financial behavior, helping educational institutions, researchers, and student support services understand spending trends, evaluate financial aid effectiveness, and develop strategies that promote financial stability and student success.
 
----
-
-## 👨‍💻 Skills Demonstrated
+## Skills Demonstrated
 
 * Data Cleaning
 * Data Transformation
